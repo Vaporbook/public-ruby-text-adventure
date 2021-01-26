@@ -1,0 +1,6 @@
+require 'tty-prompt'
+require 'tty-box'
+require 'tty-cursor'
+require_relative './world'
+require_relative './player'
+require_relative './render'
